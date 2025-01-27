@@ -8,3 +8,5 @@
 6. Navigation bar
 7. Error handling
 8. Deployment on Vercel
+9. Search functionality
+10. Filter capability
